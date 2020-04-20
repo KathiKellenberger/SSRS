@@ -1,2 +1,2 @@
 # SSRS
-Mateirals for the Redgate Community Circle SSRS class
+Materials for the Redgate Community Circle SSRS class
